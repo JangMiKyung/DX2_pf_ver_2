@@ -1,0 +1,76 @@
+﻿  stdafx.cpp
+  MyUtil.cpp
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_15\direct3d_15.v12.v12\myutil.cpp(293): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_15\direct3d_15.v12.v12\myutil.cpp(405): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Direct3D_00.cpp
+  cXMesh_Static.cpp
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_15\direct3d_15.v12.v12\cxmesh_static.cpp(63): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_15\direct3d_15.v12.v12\cxmesh_static.cpp(65): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_15\direct3d_15.v12.v12\cxmesh_static.cpp(106): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_15\direct3d_15.v12.v12\cxmesh_static.cpp(225): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  cXMesh.cpp
+  cTransform.cpp
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_15\direct3d_15.v12.v12\ctransform.cpp(1376): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_15\direct3d_15.v12.v12\ctransform.cpp(1377): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cTimeMgr.cpp
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_15\direct3d_15.v12.v12\ctimemgr.cpp(140): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_15\direct3d_15.v12.v12\ctimemgr.cpp(143): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cTerrain.cpp
+  cSingletonBase.cpp
+  cSetBoundObject.cpp
+  cScene_01_BoundLoad.cpp
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_15\direct3d_15.v12.v12\cscene_01_boundload.cpp(88): warning C4267: '인수': 'size_t'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_15\direct3d_15.v12.v12\cscene_01_boundload.cpp(105): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_15\direct3d_15.v12.v12\cscene_01_boundload.cpp(145): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_15\direct3d_15.v12.v12\cscene_01_boundload.cpp(147): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_15\direct3d_15.v12.v12\cscene_01_boundload.cpp(149): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_15\direct3d_15.v12.v12\cscene_01_boundload.cpp(155): warning C4244: '=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_15\direct3d_15.v12.v12\cscene_01_boundload.cpp(157): warning C4244: '=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_15\direct3d_15.v12.v12\cscene_01_boundload.cpp(159): warning C4244: '=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_15\direct3d_15.v12.v12\cscene_01_boundload.cpp(161): warning C4244: '=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_15\direct3d_15.v12.v12\cscene_01_boundload.cpp(166): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_15\direct3d_15.v12.v12\cscene_01_boundload.cpp(168): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_15\direct3d_15.v12.v12\cscene_01_boundload.cpp(170): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_15\direct3d_15.v12.v12\cscene_01_boundload.cpp(175): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_15\direct3d_15.v12.v12\cscene_01_boundload.cpp(177): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_15\direct3d_15.v12.v12\cscene_01_boundload.cpp(179): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_15\direct3d_15.v12.v12\cscene_01_boundload.cpp(184): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_15\direct3d_15.v12.v12\cscene_01_boundload.cpp(186): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_15\direct3d_15.v12.v12\cscene_01_boundload.cpp(188): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cScene_00_BoundSet.cpp
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_15\direct3d_15.v12.v12\cscene_00_boundset.cpp(92): warning C4244: '인수': 'LONG'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_15\direct3d_15.v12.v12\cscene_00_boundset.cpp(183): warning C4267: '인수': 'size_t'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cScene.cpp
+  cResourceMgr_XStaticMesh.cpp
+  cResourceMgr_Texture.cpp
+  cResourceMgr_ShaderFX.cpp
+  cResourceMgr.cpp
+  cPlayerPlane.cpp
+  cPhysicManager.cpp
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_15\direct3d_15.v12.v12\cphysicmanager.cpp(338): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_15\direct3d_15.v12.v12\cphysicmanager.cpp(1042): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_15\direct3d_15.v12.v12\cphysicmanager.cpp(1073): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cMainGame.cpp
+  cLogMgr.cpp
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_15\direct3d_15.v12.v12\clogmgr.cpp(80): warning C4244: '초기화 중': 'LRESULT'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  cLight_Point.cpp
+  cLight_Direction.cpp
+  cLight.cpp
+  cKeyMgr.cpp
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_15\direct3d_15.v12.v12\ckeymgr.cpp(29): warning C4800: 'int': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+  cImage.cpp
+  cGizmoManager.cpp
+  cEnemyPlane.cpp
+  cDXFontManager.cpp
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_15\direct3d_15.v12.v12\cdxfontmanager.cpp(31): warning C4244: '인수': 'float'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_15\direct3d_15.v12.v12\cdxfontmanager.cpp(31): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_15\direct3d_15.v12.v12\cdxfontmanager.cpp(73): warning C4244: '인수': 'float'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_15\direct3d_15.v12.v12\cdxfontmanager.cpp(73): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cCamera.cpp
+  cBoundSphere.cpp
+  cBoundBox.cpp
+  cBaseObject.cpp
+  코드를 생성하고 있습니다...
+  Direct3D_15.vcxproj -> C:\Users\PARK\Documents\3D 포트폴리오\20161121_Direct3D_Sprite_MapFinal\Direct3D_00\x64\Debug\Direct3D_015_BoundSet.exe

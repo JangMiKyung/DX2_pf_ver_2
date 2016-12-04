@@ -1,0 +1,10 @@
+﻿  Player.cpp
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_18\direct3d_18.v12.v12\unit.h(85): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_18\direct3d_18.v12.v12\player.cpp(88): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_18\direct3d_18.v12.v12\player.cpp(92): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_18\direct3d_18.v12.v12\player.cpp(96): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_18\direct3d_18.v12.v12\player.cpp(100): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  Command.cpp
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_18\direct3d_18.v12.v12\unit.h(85): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+  코드를 생성하고 있습니다...
+  Direct3D_18.vcxproj -> C:\Users\PARK\Documents\3D 포트폴리오\20161121_Direct3D_Sprite_MapFinal\Direct3D_00\x64\Debug\Direct3D_018_Sprite.exe

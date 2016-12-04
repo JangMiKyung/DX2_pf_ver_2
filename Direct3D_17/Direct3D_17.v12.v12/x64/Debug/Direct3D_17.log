@@ -1,0 +1,7 @@
+﻿  cScene_00_Skinned.cpp
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_17\direct3d_17.v12.v12\cscene_00_skinned.cpp(111): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_17\direct3d_17.v12.v12\cscene_00_skinned.cpp(114): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_17\direct3d_17.v12.v12\cscene_00_skinned.cpp(131): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_17\direct3d_17.v12.v12\cscene_00_skinned.cpp(134): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\park\documents\3d 포트폴리오\20161121_direct3d_sprite_mapfinal\direct3d_17\direct3d_17.v12.v12\cscene_00_skinned.cpp(155): warning C4267: '인수': 'size_t'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Direct3D_17.vcxproj -> C:\Users\PARK\Documents\3D 포트폴리오\20161121_Direct3D_Sprite_MapFinal\Direct3D_00\x64\Debug\Direct3D_017_SkinnedAnimation.exe
